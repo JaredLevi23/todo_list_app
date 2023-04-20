@@ -1,16 +1,14 @@
 # todo_list_app
 
-A new Flutter project.
+Technical test of list application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ Run from the root of the project
+ - flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+ If you are running the application on a physical IOS device, change the package name in Signing & Capabilities to a new or existing name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
