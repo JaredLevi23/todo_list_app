@@ -1,13 +1,13 @@
 # todo_list_app
 
-Technical test of list application
+Lista de tareas
 
 ## Getting Started
 
- Run from the root of the project
+ Ejecuta sobre la raiz del proyecto el siguiente comando:
  - flutter pub get
 
- If you are running the application on a physical IOS device, change the package name in Signing & Capabilities to a new or existing name.
+ Si ejecuta la aplicación en un dispositivo fisico IOS, debe contar con una cuenta de desarrollador y cambiar el nombre del paquete, puede utilizar uno existente. 
 
 
 
